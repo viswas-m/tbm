@@ -1,0 +1,46 @@
+.main-div{
+    background-image: radial-gradient(#EEEEEE, #40A578);
+}
+.main-logo{
+    height: 150px;
+    width: 300px;
+}
+.login-text{
+    color:#10864f;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px;
+    margin-bottom: 20px;
+}
+.login-form{
+    backdrop-filter: blur(5px);
+    border:1px solid #10864f;
+    padding: 20px;
+    border-radius: 12px;
+}
+.login-form label{
+    font-size: 15px;
+    color:#10864f;
+    font-weight: bold;
+}
+.login-form input{
+    height: 35px;
+    width: 100%;
+    background-color: transparent;
+    color:#10864f;
+    font-weight: 400;
+   font-size: 15px;
+    outline: none;
+    border: 1px solid #10864f;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.login-form button{
+    background-color: #10864f;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    height: 35px;
+    color: white;
+}
